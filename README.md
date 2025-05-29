@@ -102,4 +102,4 @@ npm run dev
 
 ## 📧 Contact
 
-[Your Contact Information] 
+superiorwech@gmail.com
