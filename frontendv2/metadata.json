@@ -1,0 +1,5 @@
+{
+  "name": "SuperiaTech USSD Learning Platform",
+  "description": "A landing page for the SuperiaTech USSD Learning Platform, which provides AI-powered educational content and quizzes via USSD and SMS, accessible on any mobile phone without internet.",
+  "requestFramePermissions": []
+}
